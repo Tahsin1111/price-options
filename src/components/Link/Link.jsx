@@ -7,5 +7,7 @@ const Link = ({route}) => {
     </li>)
     ;
 };
-
+// Link.protoTypes ={
+//     route: PropTypes.object
+// }
 export default Link;
